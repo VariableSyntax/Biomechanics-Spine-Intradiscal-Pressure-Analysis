@@ -1,6 +1,5 @@
 
-%Written by Izzy Lachcik
-
+%Written by Josh McGuckin
 clc
 clear all
 close all
